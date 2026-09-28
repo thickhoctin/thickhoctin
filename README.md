@@ -15,8 +15,8 @@ I am a software engineer with an M.Sc. in **Automated Driving and Vehicle Safety
 
 ## Selected Work
 
-### Multi-Agent Reinforcement Learning for Mixed-Autonomy Intersections
-Research project on autonomous-vehicle coordination at unsignalized intersections using **PPO, Transformer-based feature extraction, KNN observations, stochastic traffic generation, and V2V robustness evaluation** in SUMO.
+### [Multi-Agent Reinforcement Learning for Mixed-Autonomy Intersections](https://github.com/thickhoctin/mixed-autonomy-intersections-rl)
+**Flagship research & engineering project** on autonomous-vehicle coordination at unsignalized intersections using **PPO, Transformer-based feature extraction, KNN observations, stochastic traffic generation, and V2V robustness evaluation** in SUMO.
 
 ### [Vehicle Detection & Tracking](https://github.com/thickhoctin/CarDetection)
 Computer-vision pipeline for **vehicle detection, tracking, and speed estimation** using YOLO and DeepSORT.
